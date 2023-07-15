@@ -1,0 +1,189 @@
+#title
+{
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+#h1
+{
+    font-family: 'Montserrat' 1000, sans-serif;
+    font-family: 'Ubuntu' 1000, sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.6;
+    font-weight: 800;
+}
+#container-fluid
+{
+    padding: 2% 15% 7%;
+}
+#tinDog
+{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+
+#navbar
+{
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 4.5rem;
+}
+.nav-item
+{
+    padding: 0 18px;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+}
+
+#img
+{
+    width: 60%;
+    position: absolute;
+    transform: rotate(25deg);
+    
+}
+
+#features
+{
+    padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
+    font-family: 'Montserrat' , 'Ubuntu';
+}
+.feature-box
+{
+    text-align: center;
+    padding: 4.5%;
+}
+#h3
+{
+    font-family: 'Montserrat' , 'Ubuntu';
+    
+}
+#testimonials
+{
+    background-color: #ff4c68;
+    text-align: center;
+    color: white;
+}
+.carousel-item
+{
+    padding: 7% 15%;
+}
+#h2
+{
+    font-family: 'Montserrat' 1000, sans-serif;
+    font-family: 'Ubuntu' 1000, sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1.5;
+    
+    
+}
+#testimonial-img
+{
+    width: 10%;
+    border-radius: 100%;
+}
+#press
+{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 3%;
+}
+#press-logo
+{
+    width: 15%;
+    margin: 20px 20px 30px;
+}
+#pricing
+{
+    padding: 100px;
+    font-family: 'Montserrat' 1000, sans-serif;
+    font-family: 'Ubuntu' 1000, sans-serif;
+    
+}
+.pricing-column
+{
+    padding: 3% 2%;
+}
+
+#plan-head
+{
+    font-size: 3rem;
+    font-weight: 900;
+}
+#breed-name
+{
+    font-weight: 900;
+    font-family: 'Montserrat' 1000, sans-serif;
+    font-family: 'Ubuntu' 1000, sans-serif;
+    
+    
+}
+#price
+{
+    font-family: 'Montserrat' 1000, sans-serif;
+    font-family: 'Ubuntu' 1000, sans-serif;
+    font-weight: 900;
+    font-size: 2.5rem;
+}
+
+#cta
+{
+    background-color: #ff4c68;
+    
+    color: #fff;
+    
+    text-align: center;
+    padding: 7% 15%;
+
+}
+#cta-h3
+{
+    color: #fff;
+    font-family: 'Montserrat' 1000, sans-serif;
+    font-family: 'Ubuntu' 1000, sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#download-button
+{
+    margin-top: 50px;
+    font-family: 'Montserrat' 1000, sans-serif;
+    font-family: 'Ubuntu' 1000, sans-serif;
+    font-weight: 500;
+}
+#footer
+{
+    padding: 7% 15%;
+    text-align: center;
+
+}
+#social-icon
+{
+    margin: 20px 10px;
+}
+
+@media (max-width: 1000px)
+{
+    #title
+    {
+        text-align: center;
+    }
+    #img
+    {
+        
+         position: static;
+        text-align: center;
+        transform: rotate(0);
+        margin-top: 20px;
+    }
+}
